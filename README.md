@@ -1,5 +1,5 @@
 # 📚 Applied Optimization - Fall 2024 (A+)
-🚀 Welcome to this repo! This repository contains **materials, assignments, and sample exam answers** for the **Software Project Management** course I completed in Fall 2024 with an **A+**. I’m sharing these resources for free to help future students succeed!  
+🚀 Welcome to this repo! This repository contains **materials, assignments, and sample exam answers** for the **Applied Optimization** course I completed in Fall 2024 with an **A+**. I’m sharing these resources for free to help future students succeed!  
 
 ---
 
